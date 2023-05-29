@@ -1,0 +1,35 @@
+.neumorphic-container {
+  background-color: #3c74c8;
+  background-image: linear-gradient(to bottom right, #213259, #d1d1d1);
+  box-shadow: 12px 12px 24px #23929a, -12px -12px 24px #090a0a;
+  border-radius: 10px;
+  padding: 2rem;
+  width: 18rem;
+}
+
+.neumorphic-container h2 {
+  margin-top: 0;
+}
+
+.neumorphic-container p {
+  margin-bottom: 0;
+}
+
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container-wrapper {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.blue-button {
+  background: #213259;
+  color: #213259;
+}

@@ -1,0 +1,11 @@
+.siteName {
+  color: #e4a11b;
+}
+
+.my-link {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-right: 5px;
+}
